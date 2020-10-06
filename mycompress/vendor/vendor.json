@@ -1,0 +1,164 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "C",
+			"revision": ""
+		},
+		{
+			"path": "bytes",
+			"revision": ""
+		},
+		{
+			"path": "crypto/md5",
+			"revision": ""
+		},
+		{
+			"path": "crypto/rand",
+			"revision": ""
+		},
+		{
+			"path": "encoding/binary",
+			"revision": ""
+		},
+		{
+			"path": "encoding/hex",
+			"revision": ""
+		},
+		{
+			"path": "errors",
+			"revision": ""
+		},
+		{
+			"path": "fmt",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "vIgAoCr+2WRRD42pGV/IAOmec5A=",
+			"path": "github.com/klauspost/compress/fse",
+			"revision": "9448e8c027764138625df42365b2822cfe98c3aa",
+			"revisionTime": "2020-10-01T19:03:03Z"
+		},
+		{
+			"checksumSHA1": "xPLRQTmUZOchUDx/mJfFsQgCI5A=",
+			"path": "github.com/klauspost/compress/huff0",
+			"revision": "9448e8c027764138625df42365b2822cfe98c3aa",
+			"revisionTime": "2020-10-01T19:03:03Z"
+		},
+		{
+			"checksumSHA1": "Kt6kuTFwSWYnbL5n0KtkvS9j3s0=",
+			"path": "github.com/klauspost/compress/snappy",
+			"revision": "9448e8c027764138625df42365b2822cfe98c3aa",
+			"revisionTime": "2020-10-01T19:03:03Z"
+		},
+		{
+			"checksumSHA1": "gG00xg3iL5+tYEEgchNdsBsQs7A=",
+			"path": "github.com/klauspost/compress/zstd",
+			"revision": "9448e8c027764138625df42365b2822cfe98c3aa",
+			"revisionTime": "2020-10-01T19:03:03Z"
+		},
+		{
+			"checksumSHA1": "9lc7FmE/0tPurCtys3fzWA+yFTQ=",
+			"path": "github.com/klauspost/compress/zstd/internal/xxhash",
+			"revision": "9448e8c027764138625df42365b2822cfe98c3aa",
+			"revisionTime": "2020-10-01T19:03:03Z"
+		},
+		{
+			"checksumSHA1": "KTXZC+WMdIN4W60YjwIEC/vGCME=",
+			"path": "github.com/pierrec/lz4",
+			"revision": "e876bbd321b3b3a278637d63e53a7211ab252365",
+			"revisionTime": "2020-04-29T09:22:03Z"
+		},
+		{
+			"checksumSHA1": "uI8btgAnt060NqLXWiQbrMobSp4=",
+			"path": "github.com/pierrec/lz4/internal/xxh32",
+			"revision": "e876bbd321b3b3a278637d63e53a7211ab252365",
+			"revisionTime": "2020-04-29T09:22:03Z"
+		},
+		{
+			"path": "github.com/pierrec/lz4/v4/internal/lz4block",
+			"revision": ""
+		},
+		{
+			"path": "github.com/pierrec/lz4/v4/internal/lz4errors",
+			"revision": ""
+		},
+		{
+			"path": "github.com/pierrec/lz4/v4/internal/lz4stream",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "eMeUUKJLyYNqK6nKRrfstUljrsE=",
+			"path": "github.com/valyala/gozstd",
+			"revision": "ef66979aad595ebcd8a7e42339f4a2435d4a09d0",
+			"revisionTime": "2020-08-15T12:09:07Z"
+		},
+		{
+			"path": "hash",
+			"revision": ""
+		},
+		{
+			"path": "hash/crc32",
+			"revision": ""
+		},
+		{
+			"path": "io",
+			"revision": ""
+		},
+		{
+			"path": "io/ioutil",
+			"revision": ""
+		},
+		{
+			"path": "log",
+			"revision": ""
+		},
+		{
+			"path": "math",
+			"revision": ""
+		},
+		{
+			"path": "math/bits",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "5MapJ2XXR3RFbhJHYHwHn3rTUr8=",
+			"path": "mycompress",
+			"revision": ""
+		},
+		{
+			"path": "os",
+			"revision": ""
+		},
+		{
+			"path": "reflect",
+			"revision": ""
+		},
+		{
+			"path": "runtime",
+			"revision": ""
+		},
+		{
+			"path": "runtime/debug",
+			"revision": ""
+		},
+		{
+			"path": "strconv",
+			"revision": ""
+		},
+		{
+			"path": "strings",
+			"revision": ""
+		},
+		{
+			"path": "sync",
+			"revision": ""
+		},
+		{
+			"path": "unsafe",
+			"revision": ""
+		}
+	],
+	"rootPath": "match/mycompress"
+}
